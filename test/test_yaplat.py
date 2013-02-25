@@ -1,4 +1,4 @@
-from .. import yaplat as yp
+from ..yaplat import yaplat as yp
 import numpy as np
 
 
